@@ -1,0 +1,5 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+benefit_five_insurances_one_fund,五险一金,五险一金,contains,10,remove,true,Approved benefit noise.
+benefit_five_insurances_with_housing,五险包住,五险包住,contains,10,remove,true,Reviewed benefit phrase.
+benefit_holiday_welfare,节假日福利,节假日福利,contains,10,remove,true,Approved benefit noise.
+benefit_six_insurances_one_fund,六险一金,六险一金,contains,10,remove,true,Reviewed benefit phrase.

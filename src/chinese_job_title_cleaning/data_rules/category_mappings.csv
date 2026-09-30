@@ -1,0 +1,9 @@
+rule_id,field,source_value,clean_value,category_type,priority,enabled,rationale
+category_initial_dash,初级分类,-,,missing,0,true,
+category_initial_software,初级分类,计算机软件,计算机软件,platform_industry,10,true,
+category_initial_unlimited,初级分类,不限,,missing,0,true,
+category_recruitment_blank,招聘类别,,,missing,0,true,
+category_recruitment_dash,招聘类别,-,,missing,0,true,
+category_recruitment_full_time,招聘类别,全职,全职,employment_type,10,true,
+category_recruitment_technical,招聘类别,技术,技术,job_function,10,true,
+category_recruitment_unlimited,招聘类别,不限,,missing,0,true,

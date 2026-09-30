@@ -1,0 +1,2 @@
+rule_id,source_prefix,target_marker,candidate_prefix,enabled,rationale
+multi_occupation_pharmacy_manager,药房,店长,药房,true,药房店长需保留药房前缀构建候选职业

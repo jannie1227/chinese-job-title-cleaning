@@ -1,0 +1,2 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+job_code_label,职位编号:,职位编号:,contains,10,remove_and_tag,true,Approved bounded job-code label.

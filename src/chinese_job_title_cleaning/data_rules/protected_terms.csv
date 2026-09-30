@@ -1,0 +1,6 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+protected_example,保护词,保护词,exact,0,protect,true,Conservative artificial placeholder.
+protected_recruitment_expert,招聘专家,招聘专家,contains,0,protect,true,Protect recruitment occupation from cue removal.
+protected_recruitment_manager,招聘经理,招聘经理,contains,0,protect,true,Protect recruitment occupation from cue removal.
+protected_recruitment_specialist,招聘专员,招聘专员,contains,0,protect,true,Protect recruitment occupation from cue removal.
+protected_recruitment_supervisor,招聘主管,招聘主管,contains,0,protect,true,Protect recruitment occupation from cue removal.

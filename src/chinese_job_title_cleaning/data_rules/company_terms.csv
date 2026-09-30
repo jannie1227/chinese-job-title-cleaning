@@ -1,0 +1,18 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+company_ali_uc,阿里UC,阿里UC,contains,10,remove_and_tag,true,Reviewed company or product brand.
+company_anheng,安恒信息技术,安恒信息技术,contains,10,remove_and_tag,true,Reviewed company name.
+company_aopu,奥普家居股份有限公司,奥普家居股份有限公司,contains,10,remove_and_tag,true,Reviewed company name.
+company_babi,中饮巴比食品股份有限公司,中饮巴比食品股份有限公司,contains,10,remove_and_tag,true,Reviewed company name.
+company_branch_office,分公司,分公司,prefix,10,remove_and_tag,true,Reviewed organization-unit noise at title start.
+company_changhong,四川长虹模塑科技有限公司,四川长虹模塑科技有限公司,contains,10,remove_and_tag,true,Reviewed company name.
+company_dangbei,杭州当贝网络科技有限公司,杭州当贝网络科技有限公司,contains,10,remove_and_tag,true,Approved company-name noise.
+company_deppon,德邦,德邦,contains,10,remove_and_tag,true,Reviewed logistics brand.
+company_fresh_fruit,鲜丰水果,鲜丰水果,contains,10,remove_and_tag,true,Reviewed company brand.
+company_gooday,湖北好莱客招聘,湖北好莱客,contains,10,remove_and_tag,true,Reviewed company name plus recruitment cue.
+company_hundsun,恒生电子股份有限公司,恒生电子股份有限公司,contains,10,remove_and_tag,true,Approved company-name noise.
+company_kexin,科新动力公司,科新动力公司,contains,10,remove_and_tag,true,Reviewed company name.
+company_kunming_henglong,昆明恒隆,昆明恒隆,contains,10,remove_and_tag,true,Reviewed shopping-centre location or brand.
+company_sino_auto,中汽院智能网联科技有限公司,中汽院智能网联科技有限公司,contains,10,remove_and_tag,true,Reviewed company name.
+company_yonghui,永辉超市,永辉超市,contains,10,remove_and_tag,true,Reviewed company brand.
+company_zhongbei_aeon,中北永旺,中北永旺,contains,10,remove_and_tag,true,Reviewed store or company name.
+company_zhongshun,中顺洁柔,中顺洁柔,contains,10,remove_and_tag,true,Reviewed company brand.

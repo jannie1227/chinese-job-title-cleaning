@@ -1,0 +1,4 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+location_protected_nanjing_road,南京路,南京路,contains,10,protect,true,Approved non-location phrase.
+location_protected_shanghai_cuisine,上海菜,上海菜,contains,10,protect,true,Approved non-location phrase.
+location_protected_us_registered_nurse,美国注册护士,美国注册护士,contains,10,protect,true,Approved occupation phrase.

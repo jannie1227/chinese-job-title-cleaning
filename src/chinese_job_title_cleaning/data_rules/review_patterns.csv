@@ -1,0 +1,3 @@
+rule_id,title_pattern,industry_values,match_type,review_reason,enabled,rationale
+review_mixed_sales_accounting,销售经理/会计,[],exact,mixed_job_title,true,Artificial conservative mixed-title pattern.
+review_rail_air_technology_industry,高铁,"[""计算机、通信和其他电子设备制造业"",""软件和信息技术服务业""]",contains,title_industry_mismatch,true,Migrated legacy industry authority for context-aware quality review.

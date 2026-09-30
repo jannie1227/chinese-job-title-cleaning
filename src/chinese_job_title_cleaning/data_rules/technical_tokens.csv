@@ -1,0 +1,6 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+technical_c_plus_plus,C++,C++,contains,10,protect,true,Approved technical token.
+technical_c_sharp,C#,C#,contains,10,protect,true,Approved technical token.
+technical_car_t,CAR-T,CAR-T,contains,10,protect,true,Reviewed technical token.
+technical_dotnet,.NET,.NET,contains,10,protect,true,Approved technical token.
+technical_nodejs,Node.js,Node.js,contains,10,protect,true,Approved technical token.

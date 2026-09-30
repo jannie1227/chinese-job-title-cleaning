@@ -1,0 +1,38 @@
+{
+  "software_version": "0.1.0",
+  "generic_lexical_core": "0.4.0 / rules v4",
+  "research_revision": "v1.2.12",
+  "lexical_original_hashes": {
+    "rules.py": "64bd02fb2fb234e396f737a9a6b0d1a308e870c07e33483b1b7e2c015ca512cc",
+    "normalize.py": "cc7f77006ad70ee7aaa155b2f0c9397c54d0464e3dd34795e0f1491437c56294",
+    "matcher.py": "5966c5d9e865e6c89f40341ef0ff9c0e472264314a324367cbf1e0a9b1eac44d",
+    "models.py": "0210af1252c986b7627a75400fe5ff9224d74f03dbf19401173fc99621118f8f",
+    "title_structure.py": "99489816c4a97838bfb36aad1e9c9c80cab0c2cfd47d68fcd01062547d1a7c47",
+    "classify_metadata.py": "0b057e80a70fc58182a3bf81d6bbace47184679a74341b91c1ff989baf344acf",
+    "title_cleaner.py": "733750b10b1fa402d68801aeb41c06151fc3514a7f143cfeee7fc525a30cb3ab",
+    "__init__.py": "e364931a8afff672985ee99f795e6d8b20ff33c55d71d757ec211ec6689b3c19"
+  },
+  "lexical_public_hashes": {
+    "rules.py": "e29c8a649d4560b1eb120c2a06b4ecc7c00cf107db6efb0f66487831c0dbd6e2",
+    "normalize.py": "6d314ba1619fa6c9d1785545d7330dcf8fb7498c410ceeeca89b8deb11085698",
+    "matcher.py": "acda7566a1ab5ac0c8a74a5551d9718ab7e671e4edbb44fa72db1dd735a9dc6a",
+    "models.py": "0210af1252c986b7627a75400fe5ff9224d74f03dbf19401173fc99621118f8f",
+    "title_structure.py": "e929fcffddc689da9c05e78da5d5e7e9ea2e9bce4a30eb447e1c5cd8ad9b5d3d",
+    "classify_metadata.py": "115203938d30140b56bf0753342244c11124c90475325742203de5d036d80099",
+    "title_cleaner.py": "0e2f9ffa42c35c682fca397112de16de1750f4cf37b2b81d6d19bfe3bf1a2284",
+    "__init__.py": "e364931a8afff672985ee99f795e6d8b20ff33c55d71d757ec211ec6689b3c19"
+  },
+  "revision_public_hashes": {
+    "__init__.py": "2a3699e5eb1f9acda29ef84ff810b0e2fc55af4e40abcf17adbe00b57a333548",
+    "revision_v118.py": "77ef0de9eaacf6c416b27207dc20a57c844ba283772afacbd6bb5fcf490f0af3",
+    "revision_v12.py": "60f593871cdf7353144400141198f8f2b8b5b458bccd15cf2bcbb68a96dfa029",
+    "revision_v1210.py": "5507568d58f36f668743203a73a18caab1b3266b1ceeb6aac62ae32e8a28df6c",
+    "revision_v1211.py": "82b00b223f57701ad8e8f4f6683e82f5f12f5f2ad50cfc7b12ceda488df3cbf9",
+    "revision_v1212.py": "c821cceb98df43b3d111f6bcab455fa066c96c11e30ca1b06540fc02a3770493",
+    "revision_v126.py": "afd171c49f3e2f2f9a7e545471a03c578cc948193348f10a2e97948a20b1feb2",
+    "revision_v127.py": "fde07f2258b3a6565e2d458a115c20276cdceee3a9e966bc5f594e1e966c0704",
+    "revision_v128.py": "1dc0863c94d44f00a3577b779ac2d325567127b33d867bd78dc018fcf5a0289d",
+    "revision_v129.py": "a8af0d7ec8ff067eb9f8be5b830e24d114453c2deb23e500becaa95e13060eda"
+  },
+  "portability_changes": "Only package import paths changed in copied functions; data_rules are bundled public dictionaries."
+}

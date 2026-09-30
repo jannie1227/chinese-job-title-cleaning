@@ -1,0 +1,6 @@
+﻿record_id,招聘发布年份,招聘岗位_raw,clean_title,match_title_core,soc_route_precheck,multi_occupation_candidates,title_cleaning_method,title_attention,招聘类别_raw,招聘类别_clean,招聘类别_route_type,招聘类别_occupation_category_hint,招聘类别_source_industry_hint,招聘类别_unparsed_text,初级分类_raw,初级分类_clean,初级分类_route_type,初级分类_occupation_category_hint,初级分类_source_industry_hint,初级分类_unparsed_text,employment_type_clean,recruitment_channel_clean,occupation_category_hint,source_industry_hint,category_use_status,occupation_hint_soc_use,category_issue,上市公司行业_raw,上市公司行业_clean,ruleset_version
+SYNTH_0001,2024,会计,会计,会计,SINGLE,[],SYNTHETIC_BASELINE,,,,missing,,,,,,missing,,,,,,,,usable,none,,制造业,制造业,routine_v1.6_standard_v1.2.11_dev
+SYNTH_0002,2024,会计,会计,会计,SINGLE,[],SYNTHETIC_BASELINE,,,,missing,,,,,,missing,,,,,,,,usable,none,,制造业,制造业,routine_v1.6_standard_v1.2.11_dev
+SYNTH_0003,2024,组装工25/小时,组装工25/小时,,UNSURE,[],SYNTHETIC_BASELINE,,,,missing,,,,,,missing,,,,,,,,usable,none,,制造业,制造业,routine_v1.6_standard_v1.2.11_dev
+SYNTH_0004,2024,会计/出纳,会计/出纳,,C,"[""会计"",""出纳""]",SYNTHETIC_BASELINE,,,,missing,,,,,,missing,,,,,,,,usable,none,,制造业,制造业,routine_v1.6_standard_v1.2.11_dev
+SYNTH_0005,2024,学历不限,,,X,[],SYNTHETIC_BASELINE,,,,missing,,,,,,missing,,,,,,,,usable,none,,制造业,制造业,routine_v1.6_standard_v1.2.11_dev

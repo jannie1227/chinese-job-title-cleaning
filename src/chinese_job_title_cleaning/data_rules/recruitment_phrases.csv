@@ -1,0 +1,37 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+recruitment_ad_action,心动就行动,心动就行动,prefix,10,remove,true,Reviewed advertising phrase.
+recruitment_benefits,五险一金,五险一金,contains,20,remove,true,Artificial benefits cue as a literal phrase.
+recruitment_client_description,客户为汽车生产厂,客户为汽车生产厂,suffix,20,remove,true,Reviewed client-description suffix.
+recruitment_commission_insurance,高提成上保险,高提成上保险,suffix,20,remove,true,Artificial combined compensation and benefits cue at title end.
+recruitment_direct_sign,直签,直签,contains,20,remove,true,Reviewed hiring-process cue.
+recruitment_high_base_pay,高底薪,高底薪,contains,20,remove,true,Artificial compensation cue as a literal phrase.
+recruitment_high_commission,高提成,高提成,contains,20,remove,true,Artificial compensation cue as a literal phrase.
+recruitment_high_pay,高薪,高薪,prefix,10,remove,true,Artificial compensation cue at title start.
+recruitment_high_pay_hiring,高薪招聘,高薪招聘,prefix,5,remove,true,Reviewed combined advertising and recruitment phrase.
+recruitment_high_speed_model,和谐号,和谐号,contains,20,remove,true,Reviewed train-model advertising term.
+recruitment_hiring,招聘,招聘,suffix,20,remove,true,Artificial recruitment-process cue at title end only.
+recruitment_hiring_active,招聘中,招聘中,suffix,20,remove,true,Artificial recruitment-process cue at title end only.
+recruitment_hiring_brochure,招聘简章,招聘简章,suffix,20,remove,true,Artificial recruitment-process cue at title end only.
+recruitment_hiring_information,招聘信息,招聘信息,suffix,20,remove,true,Artificial recruitment-process cue at title end only.
+recruitment_hourly_worker,小时工,小时工,exact,10,remove,true,Employment form without an occupation body.
+recruitment_insurance,上保险,上保险,contains,20,remove,true,Artificial benefits cue as a literal phrase.
+recruitment_job_allocation,就近分配,就近分配,suffix,20,remove,true,Reviewed allocation phrase.
+recruitment_listed_pharma,上市药企,上市药企,prefix,10,remove,true,Reviewed employer attribute.
+recruitment_local_wire_factory,本地电线厂,本地电线厂,prefix,10,remove,true,Reviewed employer-scene phrase.
+recruitment_long_day_shift,长白班,长白班,contains,20,remove,true,Reviewed shift term.
+recruitment_meals_lodging,免费食宿,免费食宿,contains,20,remove,true,Artificial benefits cue as a literal phrase.
+recruitment_monthly_ten_thousand,月一万,月一万,contains,20,remove,true,Reviewed salary phrase.
+recruitment_online_interview,线上面试,线上面试,contains,20,remove,true,Artificial interview cue as a literal phrase.
+recruitment_phone_interview,电话面试,电话面试,contains,20,remove,true,Artificial interview cue as a literal phrase.
+recruitment_premium_job,高端美丽好工作,高端美丽好工作,prefix,10,remove,true,Reviewed advertising phrase.
+recruitment_remote_interview,远程面,远程面,contains,20,remove,true,Artificial interview cue as a literal phrase.
+recruitment_salary_eight_thousand,有8千,有8千,suffix,20,remove,true,Reviewed salary phrase.
+recruitment_shift_rotation,倒班,倒班,contains,20,remove,true,Reviewed work-shift cue.
+recruitment_sincere,诚聘,诚聘,prefix,10,remove,true,Artificial recruitment cue at title start.
+recruitment_six_insurances,六险二金,六险二金,contains,20,remove,true,Artificial benefits cue as a literal phrase.
+recruitment_state_owned,国企,国企,prefix,10,remove,true,Reviewed employer attribute.
+recruitment_stylish,时尚优雅,时尚优雅,prefix,10,remove,true,Reviewed advertising phrase.
+recruitment_terrestrial_stewardess,陆地空姐,陆地空姐,prefix,10,remove,true,Reviewed advertising nickname.
+recruitment_uncommissioned_5150,无责5150,无责5150,prefix,10,remove,true,Reviewed salary cue.
+recruitment_urgent,急聘,急聘,prefix,10,remove,true,Artificial recruitment cue at title start.
+recruitment_weekends,双休,双休,contains,20,remove,true,Artificial work-schedule cue as a literal phrase.

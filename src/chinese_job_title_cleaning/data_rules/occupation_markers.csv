@@ -1,0 +1,7 @@
+marker_id,pattern,match_type,action,enabled,rationale
+marker_engineer,工程师,suffix,classify_only,true,Approved occupation marker.
+marker_management,管理,suffix,classify_only,true,Reviewed occupation-family marker.
+marker_manager,店长,suffix,classify_only,true,Approved occupation marker.
+marker_salesperson,营业员,suffix,classify_only,true,Approved occupation marker.
+marker_specialist,专员,suffix,classify_only,true,Approved occupation marker.
+marker_test,测试,exact,classify_only,true,Reviewed standalone occupation marker.

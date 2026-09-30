@@ -1,0 +1,5 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+seniority_intermediate,中级,中级,contains,10,keep_and_tag,true,Reviewed core-only seniority marker.
+seniority_reserve,储备,储备,prefix,10,keep_and_tag,true,Reviewed reserve-stage marker.
+seniority_senior,高级,高级,contains,10,keep_and_tag,true,Reviewed core-only seniority marker at any title position.
+seniority_veteran,资深,资深,contains,10,keep_and_tag,true,Reviewed core-only seniority marker.

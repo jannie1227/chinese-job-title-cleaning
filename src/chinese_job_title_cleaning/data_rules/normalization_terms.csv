@@ -1,0 +1,24 @@
+rule_id,pattern,canonical_term,match_type,priority,enabled,rationale
+normalization_android,android,Android,latin_token,10,true,
+normalization_apache,apache,Apache,latin_token,10,true,Reviewed technical token.
+normalization_ate,ate,ATE,latin_token,10,true,Reviewed technical acronym.
+normalization_bp,bp,BP,latin_token,10,true,Reviewed occupation acronym.
+normalization_c,c,C,latin_token,10,true,Reviewed programming language token.
+normalization_car_t,car-t,CAR-T,latin_token,10,true,Reviewed technical token.
+normalization_cnc,cnc,CNC,latin_token,10,true,Reviewed technical acronym.
+normalization_dcs,dcs,DCS,latin_token,10,true,Reviewed technical acronym.
+normalization_dotnet,net,.NET,latin_token,10,true,Reviewed platform token.
+normalization_go,go,Go,latin_token,10,true,Reviewed programming language.
+normalization_haproxy,haproxy,HAProxy,latin_token,10,true,Reviewed technical token.
+normalization_ios,ios,iOS,latin_token,10,true,
+normalization_java,java,Java,latin_token,10,true,
+normalization_layout,layout,Layout,latin_token,10,true,Reviewed technical term.
+normalization_nginx,nginx,Nginx,latin_token,10,true,Reviewed technical token.
+normalization_php,php,PHP,latin_token,10,true,
+normalization_plc,plc,PLC,latin_token,10,true,Reviewed technical acronym.
+normalization_pmc,pmc,PMC,latin_token,10,true,Reviewed occupation acronym.
+normalization_python,python,Python,latin_token,10,true,
+normalization_qc,qc,QC,latin_token,10,true,Reviewed quality acronym.
+normalization_sqe,sqe,SQE,latin_token,10,true,Reviewed quality acronym.
+normalization_ui,ui,UI,latin_token,10,true,
+normalization_web,web,Web,latin_token,10,true,

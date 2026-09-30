@@ -1,0 +1,6 @@
+rule_id,pattern_type,literals,units,priority,action,enabled,rationale
+requirement_age_range,age_range,"[""-""]","[""岁""]",10,remove,true,Approved bounded age-range scanner configuration.
+requirement_education,education_requirement,"[""学历""]",[],10,remove,true,Approved bounded education scanner configuration.
+requirement_experience,experience_years,"[""经验""]","[""年""]",10,remove,true,Approved bounded experience scanner configuration.
+requirement_headcount,headcount,"[""招"",""招聘""]","[""人"",""名""]",10,remove,true,Reviewed bounded headcount scanner configuration.
+requirement_salary_range,salary_range,"[""-""]","[""K"",""k"",""元""]",10,remove,true,Reviewed bounded salary-range scanner configuration.

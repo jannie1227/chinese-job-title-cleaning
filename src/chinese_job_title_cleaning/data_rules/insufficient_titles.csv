@@ -1,0 +1,2 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+insufficient_unsure,UNSURE,UNSURE,exact,10,flag_only,true,Approved insufficient-title sentinel.

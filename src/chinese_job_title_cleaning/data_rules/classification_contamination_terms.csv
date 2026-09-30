@@ -1,0 +1,5 @@
+rule_id,field,pattern,match_type,action,enabled,rationale
+classification_full_time,initial_category,全职,exact,flag_review,true,Approved classification contamination value.
+classification_internship,initial_category,实习,exact,flag_review,true,Approved classification contamination value.
+classification_part_time,initial_category,兼职,exact,flag_review,true,Approved classification contamination value.
+classification_school_recruitment,initial_category,校招,exact,flag_review,true,Approved classification contamination value.

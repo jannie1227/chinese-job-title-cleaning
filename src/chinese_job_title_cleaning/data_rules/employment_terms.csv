@@ -1,0 +1,4 @@
+rule_id,pattern,canonical_tag,match_type,priority,action,enabled,rationale
+employment_campus,校招,校招,prefix,10,keep_and_tag,true,Campus marker retained in clean_title and considered only for match_title_core.
+employment_graduate,应届生,应届生,prefix,10,keep_and_tag,true,Graduate marker retained in clean_title and considered only for match_title_core.
+employment_intern,实习生,实习生,suffix,10,keep_and_tag,true,Intern marker retained in clean_title and considered only for match_title_core.
